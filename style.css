@@ -16,15 +16,15 @@ p{
     color: orange;
 }
 .half-width{
-    width: 45%;
+    width: 40%;
     float: left;  
-    margin-left: 3%;
+    margin-left: 5%;
     padding-left: 2%; 
 
 }
 .half-width img{
     width: 80%;
-    height: 145%;
+    height: 140%;
     
 }
 .top-banner{
@@ -34,7 +34,7 @@ p{
 }
 section{
     height: 500px;
-    padding-bottom: 100px
+    padding-bottom: 110px
 }
 .link-button{
     text-decoration: none;
@@ -50,7 +50,7 @@ section{
     background-image: linear-gradient(45deg, rgb(243, 113, 226), purple);
     padding: 10px 10px;
     margin-left: 35%;
-    width: 380px;
+    width: 365px;
     border-radius: 10px;
     color: white; 
 }
@@ -64,7 +64,7 @@ section{
 }
 
 .single-experience{
-    height: 33%;
+    height: 30%;
     width: 26%;
     background-color: white;
 
